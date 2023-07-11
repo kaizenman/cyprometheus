@@ -1,0 +1,8 @@
+.eggs
+cyprometheus/cpp/include
+cyprometheus/cpp/lib
+build
+__pycache__
+*.so
+
+cyprometheus/foo/foo_init.cpp
