@@ -38,6 +38,6 @@ Clean:
 The application will be available at `http://localhost:5050`.
 
 
-To test the application, send a GET request to `http://localhost:5050/` and `http://localhost:5050/metrics`. You can also install Grafana and visualize the metrics.
+To test the application, send a GET request to `http://localhost:5050/metrics`. You can also install Grafana and visualize the metrics.
 
 
